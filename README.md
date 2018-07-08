@@ -6,7 +6,7 @@ Initially, a cube is placed in the pick up zone. Then the robot navigates to the
 
 # Installation
 
-You need to have ros installed and the navigation package. You also need to clone the gmapping, turtlebot_teleop, turtlebot_rviz_launchers and turtlebot_gazebo packages.
+You need to have ROS and the ros-kinetic-navigation package installed. You also need to clone the gmapping, turtlebot_teleop, turtlebot_rviz_launchers and turtlebot_gazebo packages.
 
 # Execution
 
